@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "limits": "c",
+        "stdlib.h": "c",
+        "stdbool.h": "c"
+    }
+}
